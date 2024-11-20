@@ -1,0 +1,18 @@
+table.t1{
+    border: red 1px solid;
+}
+
+td.A{
+border: blue 2px solid;
+}
+.t3{
+
+    width: 50%;
+    border: 2px solid green;
+    text-align: center
+}
+
+    .t3 td{
+        border: 2px solid green;
+        text-align: center;
+    }
